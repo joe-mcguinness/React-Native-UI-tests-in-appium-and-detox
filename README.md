@@ -1,4 +1,4 @@
-# detox-sample
+# React Native UI tests
 ReactNative sample app with UI tests in both detox and appium.
 
 To run the UI test using detox:
